@@ -1,0 +1,185 @@
+body{
+    background: url(https://thumbs.gfycat.com/BitesizedDesertedBallpython-max-1mb.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+img:hover{
+    border-radius: 50%;
+    border-style: dotted solid;
+    border-color: black;
+    border-width: 11px;
+
+}
+.a{
+    background-color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px;
+}
+.a:hover{
+background-color: aliceblue;
+border-style: solid;
+border-color: black;
+border-width: 11px;
+}
+.a{
+    border-radius: 80%;
+}
+.b{
+    background-color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px;
+}
+.b:hover{
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black ;
+    border-width: 11px;
+}
+.b{
+    border-radius: 50%;
+}
+.c{
+    background-color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px;
+}
+.c:hover{
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 11px;
+}
+.c{
+    border-radius: 50%;
+}
+.e{
+    background-color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px; 
+}
+.e:hover{
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 11px;
+}
+.e{
+    border-radius: 50%;
+}
+.d{
+    background-color:grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px; 
+}
+.d:hover{
+    background-color: aliceblue;
+    border-style:  solid;
+    border-color: black;
+    border-width: 11px;
+}
+.d{
+    border-radius: 50%;
+}
+.b1{
+    display: inline-block;
+    border-radius: 30px;
+    background-color: orange;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.b1:hover{
+    background-color:greenyellow;
+    border-style: double solid;
+    border-color: black ;
+}
+.b2{
+    display: inline-block;
+    border-radius: 30px;
+    background-color: orange;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.b2:hover{
+    background-color: greenyellow;
+    border-style: double solid;
+    border-color: black ;
+}
+.b3{
+    display: inline-block;
+    border-radius: 30px;
+    background-color: orange;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.b3:hover{
+    background-color: greenyellow;
+    border-style: double solid;
+    border-color:black ;
+}
+.b4{
+    display: inline-block;
+    border-radius: 30px;
+    background-color: orange;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.b4:hover{
+    background-color: greenyellow;
+    border-style: double solid;
+    border-color: black ;
+}

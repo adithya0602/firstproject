@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://cutewallpaper.org/21/white-background-gif/Interactive-Background-by-Denys-Loveiko-on-Dribbble.gif");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.ff{
+    border-radius: 50%;
+    border-top: 70px;
+    border-bottom: 30px;
+    margin-top: 70px;
+    border-width: 11px;
+    border-style: solid;
+    border-color: grey;
+}
